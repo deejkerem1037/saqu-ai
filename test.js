@@ -1,0 +1,1 @@
+console.log("kenan bir maldır ezik aptal özürlü yarramınk kafası fissek sennnih")
